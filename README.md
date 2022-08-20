@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jstlegara. I have an undergraduate degree in Accountancy, and currently doing my Masters in Economics. I am a Senior Data Scientist for OptumLabs with a specialization on Diabetes Research
+- 👋 Hi, I’m @jstlegara. I have an undergraduate degree in Accountancy, and currently doing my Master of Science in Data Science at the Asian Institute of Management. I am a Senior Data Scientist for OptumLabs with a specialization on Diabetes Research
 - 👀 I’m interested in making use of agent based modelling, or simulations, in creating simplified versions of real world scenarios, and perhaps predict outcomes from that 
 - 🌱 I’m currently learning Java because I am interested in creating simple pseudo simulation games like dating simulations and the type
 - 💞️ I’m looking to collaborate on anything of interest, really. I'm always up for more learnings
